@@ -1,5 +1,7 @@
 [![Build](https://github.com/haampie-spack/ci-example-2/actions/workflows/ci.yaml/badge.svg)](https://github.com/haampie-spack/ci-example-2/actions/workflows/ci.yaml)
 
+Edit: you may want to use the Github Action instead: https://github.com/haampie-spack/setup-spack
+
 # CI for C / C++ / Fortran / Python projects using Spack
 
 - Set up Spack through https://github.com/haampie/spack-batteries-included;
